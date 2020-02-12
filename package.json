@@ -1,0 +1,12 @@
+{
+  "name": "so07backend",
+  "version": "1.0.0",
+  "description": "Criando a API Rest do clone do #INSTAGRAM utilizando NodeJS, Express e MongoDB",
+  "main": "index.js",
+  "repository": "https://github.com/horacio-pedro/so07backend.git",
+  "author": "Horácio Pedro <46960527+horacio-pedro@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
