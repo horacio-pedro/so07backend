@@ -8,4 +8,6 @@ mongoose.connect('mongodb://localhost/so07backend', {
 
 const app = express();
 
+app.use(require('./routes'))
+
 app.listen(2000);
